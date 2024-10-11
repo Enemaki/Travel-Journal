@@ -1,0 +1,58 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: #F55A5A;
+  padding: 10px;
+  color: white;
+}
+
+.globe--photo {
+  align-self: center;
+  margin-right: 5px;
+}
+
+.card--container {
+  display: flex;
+  flex-direction: column;
+}
+
+.card--div {
+  display: flex;
+  height: 200px;
+  margin: 40px;
+  color: #2B283A;
+}
+
+hr {
+  margin: 0 40px;
+}
+
+.info--div {
+  margin-left: 15px;
+  align-self: center;
+  flex: 0 0 auto;
+}
+
+.locator--img {
+  padding-right: 5px;
+}
+
+.card--img {
+  height: 100%;
+  width: 200px;
+  border-radius: 5px;
+}
+
+a {
+  color: #918E9B;
+  margin-left: 15px;
+  font-size: 10.24px;
+}
+
+p {
+  font-size: 10.24px;
+}
+
+.date--p {
+  font-weight: bold;
+} 
